@@ -5,9 +5,22 @@
 
 # Project Summary
 
-The project aims to predict whether a passenger referred by an existing customer will book a flight or not, based on various features such as seat comfort, cabin service, travel class,food beverage , entertainment service, etc. The prediction model is developed using classification techniques in machine learning.The use of machine learning techniques allows for the development of a model that can learn from historical passenger and booking data and make accurate predictions on new data. The model can be used by airlines to target marketing campaigns towards potential passengers who are likely to book a flight based on a referral from an existing customer.
+This project explores factors that influence airline passenger satisfaction by analyzing historical airline review data from 2016 to 2019. Key areas of focus include seat comfort, cabin service, travel class, and entertainment services. Through detailed data analysis, insights were derived to help airlines identify areas of improvement and target strategies to enhance passenger experiences. The findings reveal trends in passenger preferences, satisfaction levels, and areas for service enhancement.
 
 # Objective
+The objective of this project is to understand airline passenger satisfaction trends and identify key factors affecting overall ratings. By analyzing passenger feedback, this project provides actionable insights to help airlines improve service quality and increase passenger loyalty. Key findings aim to guide airlines in making informed decisions for service upgrades and marketing focus areas.
 
-The given data includes airline reviews from 2016 to 2019 for popular airlines around the world with multiple choice and free text questions. Data is scrapped in spring2019.The main objective is to predict whether passengers will refer the airline to their friends.
+## Technologies Used
+- **Python**: Data analysis and manipulation
+- **Pandas**: Data cleaning and preparation
+- **NumPy**: Numerical computations
+- **Matplotlib & Seaborn**: Data visualization
 
+## Key Findings
+- Solo travelers represent **37.22%** of all airline passengers, with most choosing economy class (78.44%), followed by business class.
+- **50%** of passengers rate cabin service positively (4.0-5.0) when the airline's overall rating is high, indicating a strong influence of cabin service on overall satisfaction.
+- **30%** of passengers report dissatisfaction with entertainment services, receiving a low satisfaction rating (1.0), highlighting a potential area for service improvement.
+- **42%** of passengers rated their overall experience below 3.0, suggesting a need for significant improvements in several service aspects to boost satisfaction.
+
+## Conclusion
+The analysis provides airlines with a data-driven view of passenger preferences and pain points. Focusing on improving entertainment options, enhancing economy class experiences, and maintaining high cabin service quality can contribute to higher overall satisfaction and customer loyalty.
